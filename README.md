@@ -12,7 +12,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
-<a href="https://github.com/kuruminpz/workspaces/Projeto-EBOOK-python---Ednaldo-Paes/output/ebook - Python Web War - Nas Trincheiras do Desenvolvimento [Cap 1].pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/kuruminpz/Projeto-EBOOK-python---Ednaldo-Paes/blob/main/output/ebook%20-%20Python%20Web%20War%20-%20Nas%20Trincheiras%20do%20Desenvolvimento%20%5BCap%201%5D.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
